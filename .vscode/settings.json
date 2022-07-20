@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://rjkcwnhf:Pq_Lu0GP_A00b81-kOcOELkUBHMNLq57@jelani.db.elephantsql.com/rjkcwnhf",
+            "name": "MovieHw"
+        }
+    ]
+}
